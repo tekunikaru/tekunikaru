@@ -32,7 +32,9 @@
     </a>
 </p>
 <p align="center">
-    <img src="arch.png"/>
+    <a href="https://www.pixiv.net/artworks/89596288" target="_blank" title="Arch Linux-chan by Ravimo">
+        <img src="arch.png"/>
+    </a>
 </p>
 
 <hr>
