@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekunikaru&layout=compact&theme=tokyonight&hide_border=false&border_radius=4"/>
-    <img height="200em" src="https://streak-stats.demolab.com?user=tekunikaru&theme=tokyonight&hide_border=false&border_radius=4&hide_border=false"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekunikaru&layout=compact&theme=tokyonight&hide_border=false&border_radius=4"/>
+    <img height="150em" src="https://streak-stats.demolab.com?user=tekunikaru&theme=tokyonight&hide_border=false&border_radius=4&hide_border=false"/>
 </p>
 
 <hr>
