@@ -1,9 +1,14 @@
 <h1 align="center"><i>hemlo</i></h1>
+
+<p align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekunikaru&layout=compact&theme=tokyonight&hide_border=true&border_radius=4"/>
+    <img height="150em" src="https://streak-stats.demolab.com?user=tekunikaru&theme=tokyonight&hide_border=false&border_radius=4&hide_border=true"/>
+</p>
+
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=16&size=32&duration=800&pause=200&color=FF8CA8&center=true&vCenter=true&multiline=true&repeat=false&width=1024&height=256&lines=Artificial+Inteligence+Technologist;Network+Administrator;Software+Developer;OS+Agnostic;GA+Pilot" alt="Typing SVG" />
 </p>
-
----
+<hr>
 
 <p align="center">
     <img width="14px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" alt="Arch Linux"/> 
@@ -25,16 +30,9 @@
     <a href="https://www.samsung.com/one-ui/" target="_blank">
         One UI 8
     </a>
-    
 </p>
-
 <p align="center">
     <img src="arch.png"/>
-</p>
-
-<p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekunikaru&layout=compact&theme=tokyonight&hide_border=false&border_radius=4"/>
-    <img height="150em" src="https://streak-stats.demolab.com?user=tekunikaru&theme=tokyonight&hide_border=false&border_radius=4&hide_border=false"/>
 </p>
 
 <hr>
