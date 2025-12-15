@@ -5,7 +5,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekunikaru&layout=compact&theme=tokyonight&hide_border=true&border_radius=4"/>
     </a>
     <a href="https://github.com/tekunikaru#js-contribution-activity-description">
-    <img height="150em" src="https://streak-stats.demolab.com?user=tekunikaru&theme=tokyonight&hide_border=false&border_radius=4&hide_border=true"/>
+    <img height="150em" src="https://streak-stats.demolab.com/?user=tekunikaru&theme=tokyonight&hide_border=false&border_radius=4&hide_border=true"/>
     </a>
 </p>
 
